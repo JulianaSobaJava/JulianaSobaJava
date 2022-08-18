@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 💻 Sou desenvolvedora web
+- 🎯 Actualmente trabalho como Front-End
+- 👩‍💻 Embaixadora da CDA Girls
+- 📝 Estudando Figma e TDD
+
 <!--
 **JulianaSobaJava/JulianaSobaJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
