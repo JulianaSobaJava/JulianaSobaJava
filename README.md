@@ -1,11 +1,12 @@
 ### Hi there 👋
+<div style="display: inline_block">
+<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="200px" align="right" alt="Developer">
 
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="230px" align="right" alt="Developer">
-
-- 💻 I'm Web Developer
-- 🎯 Actually working as Front-End Developer
-- 👩‍💻 CDA Girls Ambassador
-- 📝 Studying Figma and TDD
+<p align="left">- 💻 I'm Web Developer</p>
+<p align="left">- 🎯 Actually working as Front-End Developer</p>
+<p align="left">- 👩‍💻 CDA Girls Ambassador</p>
+<p align="left">- 📝 Studying Figma and TDD</p>
+</div>
 
 
 
