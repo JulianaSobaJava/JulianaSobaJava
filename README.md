@@ -6,6 +6,7 @@
 - 👩‍💻 CDA Girls Ambassador
 - 📝 Studying Figma e TDD
 
+<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/pamella.svg" width="230px" align="right" alt="Developer">
 <!--
 **JulianaSobaJava/JulianaSobaJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
