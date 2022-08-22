@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block">
-<img src="https://github.com/JulianaSobaJava/igNews/blob/main/public/images/avatar.svg" width="150px" align="right" alt="Developer">
+<img src="https://github.com/JulianaSobaJava/igNews/blob/main/public/images/avatar.svg" width="120px" align="right" alt="Developer">
 
 <p align="left">- 💻 I'm Web Developer</p>
 <p align="left">- 🎯 Actually working as Front-End Developer</p>
