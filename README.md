@@ -4,8 +4,7 @@
 
 <p align="left">- 💻 I'm Web Developer</p>
 <p align="left">- 🎯 Actually working as Front-End Developer</p>
-<p align="left">- 👩‍💻 CDA Girls Ambassador</p>
-<p align="left">- 📝 Studying Figma and TDD</p>
+<p align="left">- 📝 Studying React Native, UI/UX and Copywriting</p>
 </div>
 
 
