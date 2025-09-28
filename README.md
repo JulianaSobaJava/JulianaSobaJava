@@ -4,12 +4,12 @@
 
 <p align="left">- 💻 I'm Web Developer</p>
 <p align="left">- 🎯 Actually working as Front-End Developer</p>
-<p align="left">- 📝 Freelancer as an extra, open to learn always</p>
+<p align="left">- 📝 Freelancer, open to learning and growing with every project.</p>
 </div>
 
 
 
-## Sou a Juliana Soba, Web Developer, and I drink coffee/tea!
+## I'm Juliana Soba, Web Developer, and I drink coffee/tea!
 <div align="center">
   <a href="https://github.com/JulianaSobaJava">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianasoba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -35,11 +35,10 @@
   
   ##
   <div>  
-  <a href="https://instagram.com/julianasobajava23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/julianasoba.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/Juliana Soba Java#6625" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:julianasobajava23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:julianagongasoba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-soba-a84126216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.facebook.com/julianasobajava23" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
       </div>
   
   
