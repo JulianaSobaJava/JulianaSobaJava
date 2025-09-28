@@ -4,12 +4,12 @@
 
 <p align="left">- 💻 I'm Web Developer</p>
 <p align="left">- 🎯 Actually working as Front-End Developer</p>
-<p align="left">- 📝 Studying React Native, UI/UX and Copywriting</p>
+<p align="left">- 📝 Freelancer as an extra, open to learn always</p>
 </div>
 
 
 
-## Sou a Juliana Soba, aprendendo programação e gostando de café!
+## Sou a Juliana Soba, Web Developer, and I drink coffee/tea!
 <div align="center">
   <a href="https://github.com/JulianaSobaJava">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianasoba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
