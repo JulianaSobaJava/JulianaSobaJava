@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block">
-<img src="https://github.com/JulianaSobaJava/igNews/blob/main/public/images/avatar.svg" width="120px" align="right" alt="Developer">
+<img src="https://github.com/julianasoba/igNews/blob/main/public/images/avatar.svg" width="120px" align="right" alt="Developer">
 
 <p align="left">- 💻 I'm Web Developer</p>
 <p align="left">- 🎯 Actually working as Front-End Developer</p>
@@ -12,8 +12,8 @@
 ## Sou a Juliana Soba, aprendendo programação e gostando de café!
 <div align="center">
   <a href="https://github.com/JulianaSobaJava">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianaSobaJava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaSobaJava&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianasoba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasoba&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
