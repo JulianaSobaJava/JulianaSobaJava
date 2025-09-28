@@ -44,9 +44,3 @@
   
   
 <br>
-<div align="center">
-<p>Total de visitas no perfil:</p>
-<p>
-    <img src="https://profile-counter.glitch.me/JulianaSobaJava/count.svg"/>
-</p>
-</div>
